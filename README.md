@@ -1,5 +1,5 @@
 <h1 align="center">Welcome I'm João Galdino 👋</h1>
-<h3 align="center">A student living in São Paulo, Brazil who loves programming.</h3>
+<h3 align="center">A student living in São Paulo - Brazil, who loves programming.</h3>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/70355857/163657125-ac45451a-9d7f-4bee-ba2d-183a06eaf942.png">
 </p>
