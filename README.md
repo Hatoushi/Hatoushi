@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hatoushi&label=Profile%20views&color=0e75b6&style=flat" alt="hatoushi" /> </p>
 
-- 💻 Discord: **Hatoushi#9386**
+- 💻 Discord: **Hatoushi**
 
 - 🔧 I’m currently learning **Lua**
 
