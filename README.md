@@ -12,7 +12,7 @@
 
 - 🔧 I’m currently learning **Lua**
 
-- 📫 How to reach me: **joaopedro224@yahoo.com**
+- 📫 How to reach me: **joaogaldino@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
